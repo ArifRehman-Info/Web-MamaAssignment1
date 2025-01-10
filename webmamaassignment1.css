@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .fira-sans-extralight {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .fira-sans-light {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fira-sans-medium {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .fira-sans-semibold {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .fira-sans-extrabold {
+    font-family: "Fira Sans", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .fira-sans-black {
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+/* *{
+    margin:0 ;
+    padding:0 ;
+} */
+
+
+/* first nav  bar ar kaj*/
+nav{
+    display: flex;
+    align-items: center;
+   justify-content: space-between;
+   margin: 24px 80px ;
+
+}
+.b20-title{
+font-family: "Fira Sans", serif;
+font-size: 32px;
+font-weight: 700;
+font-style: normal;
+
+}
+nav ul{
+    display:flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+}
+nav li a{
+  
+    text-decoration: none;
+}
+
+.ftn-primary{
+    font-family: "Fira Sans", serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #006A50;
+    padding: 15px 30px;
+    border-radius: 8px;
+    border-color: #006A50;
+
+}
+.btn-primary{
+    color: #FFFFFF;
+    background-color:#006A50 ;
+
+}
+/* nav bar ar kaj ses */
+
+
+/* banner part ar suru */
+.banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    background-color: #C6E4D6;
+  
+    border-radius: 24px;
+    margin:9px 80px 0 80px;
+    
+}
+.banner-content{
+ width: 622px;
+   
+padding-left: 50px;
+    
+   
+   
+}
+
+.mini-title{
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #505f30;
+
+
+}
+
+.f1btn-primary{
+font-family: "Fira Sans", serif;
+font-size: 18px;
+font-weight: 600;
+padding: 17px 34px;
+border-radius: 8px;
+
+}
+.bold-banner{
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-size: 56px;
+    color: #0E0E0E;
+   
+}
+.banner-fphoto{
+width: 400.03px;
+/* max-height: 400px; */
+padding: 80px 100px 80px 0;
+
+}
+/* banner part ses */
+
+
