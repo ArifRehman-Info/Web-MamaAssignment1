@@ -54,8 +54,11 @@
   }
 /* *{
     margin:0 ;
-    padding:0 ;
+    
 } */
+ .vision-title{
+    margin-bottom: 80px;
+ }
 
 
 /* first nav  bar ar kaj*/
@@ -84,7 +87,9 @@ nav li a{
   
     text-decoration: none;
 }
-
+nav .ftn-primary:hover{
+    background:#d3259f;
+}
 .ftn-primary{
     font-family: "Fira Sans", serif;
     font-size: 18px;
@@ -154,6 +159,47 @@ width: 400.03px;
 padding: 80px 100px 80px 0;
 
 }
+
+.banner .f1btn-primary:hover{
+    background:#d3259f;
+}
 /* banner part ses */
 
 
+/* pilar ar suru */
+
+
+.pillar-body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 70px; 
+    gap: 15px; 
+    margin-right: 75px;
+}
+  
+
+.head-ptitle{
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 70px;
+    
+}
+.phead{
+    font-family: "Fira Sans", serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.vision-description{
+  
+}
+
+.p-vision{
+padding:15px 2px 10px 10px;
+box-shadow:0px 4px 15px 0px rgba(0, 0, 0, 0.25) ;
+    
+border-radius: 16px;
+}
+/* pillar part ses */
