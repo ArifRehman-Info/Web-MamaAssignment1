@@ -102,7 +102,7 @@ nav .ftn-primary:hover{
 }
 .btn-primary{
     color: #FFFFFF;
-    background-color:#006A50 ;
+   
 
 }
 /* nav bar ar kaj ses */
@@ -144,6 +144,7 @@ font-size: 18px;
 font-weight: 600;
 padding: 17px 34px;
 border-radius: 8px;
+background-color:#006A50 ;
 
 }
 .bold-banner{
@@ -203,3 +204,199 @@ box-shadow:0px 4px 15px 0px rgba(0, 0, 0, 0.25) ;
 border-radius: 16px;
 }
 /* pillar part ses */
+
+
+/* vision of future ar suru */
+ .visionoffuture{
+
+    margin-top: 38px;
+    margin-bottom:32px;
+ }
+ .vhead{
+    font-family: "Fira Sans", serif;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 70px;
+ }
+ #visionid{
+    margin-left: 70px;
+
+ }
+ .vision-sub{
+    font-family: "Fira Sans", serif;
+   font-weight: 700;
+   font-size: 20px;
+ }
+ .vision-container{
+    display: flex;
+    align-items: center;
+    gap: 15px; 
+    margin-right: 75px;
+    margin-left: 70px;
+
+
+ }
+.vision-future{
+    padding:15px 2px 10px 10px;
+box-shadow:0px 4px 15px 10px rgba(0, 0, 0, 0.25) ;
+    
+border-radius: 16px;
+
+}
+ 
+/* vision of future ar indiviual tag ar suru */
+.vp1{
+background-color:rgba(84, 144, 245, 0.2);
+}
+.vp2{
+    background-color: #C6E4D6;
+}
+.vp3{
+    background-color:  #F7EBCF;
+}
+.v6{
+ background-color:#5490F5; 
+ padding: 8px 11px;
+ border-radius: 8px;
+ font-family: "Fira Sans", serif;
+ font-weight: 600;
+ font-size: 16px;
+}
+
+
+.vio1{
+    background-color: #09A15C;
+    padding: 8px 11px;
+    border-radius: 8px;
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-size: 16px;
+ }
+
+
+.vio{
+   background-color: #FFC239;
+   padding: 8px 11px;
+   border-radius: 8px;
+   font-family: "Fira Sans", serif;
+   font-weight: 600;
+   font-size: 16px;
+
+}
+.vp3 .vio:hover{
+    background:#d3259f;
+}
+.vp2 .vio1:hover{
+    background:#d3259f;
+}
+.vp1 .v6:hover{
+    background:#d3259f;
+}
+/* indiviual vision ses */
+
+/* younus bhai part suru */
+
+
+
+.younus-bhai{
+
+margin-left: 75px;
+margin-right: 75px;
+
+
+
+}
+.younus-specech{
+font-family: "Fira Sans", serif;
+ font-size: 16px;
+ position: relative;
+ background-image: url("assets/quote-bg.png");
+ gap:0;
+ 
+ background-repeat: no-repeat;
+ box-shadow: 0px 4px 6px 0 rgba(0, 0, 0, 0.25);
+ border-radius: 16px;
+}
+.speaks{
+    padding: 30px 20px 0 24px;
+   
+}
+.bold-younus{
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    padding-left:20px ;
+}
+.para-younus{
+    padding-left:20px ;
+    padding-bottom: 10px;
+}
+
+
+/* younus ar ses */
+
+/* recent news suru */
+.news-title{
+    box-shadow: 0 5px 15px 0px #FFFFFF;
+}
+
+
+
+.alt-news{
+    font-family: "Fira Sans", serif;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.news-pre-head{
+    font-family: "Fira Sans", serif;
+    margin-left: 80px;
+   
+}
+.alt-newsb{
+    font-family: "Fira Sans", serif;
+ font-size: 16px;
+ font-weight: 400;
+}
+.satelite{
+    border-radius: 24px;
+
+}
+
+.news-title{
+    font-family: "Fira Sans", serif;
+    margin-left: 0px;
+    margin-right: 80px;
+    margin-top: 30px;
+   
+}
+.news-container{
+ 
+    
+ font-family: "Fira Sans", serif;
+display: flex;
+gap: 50px;
+margin-left: 70px;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); 
+border-radius: 16px; 
+padding: 35px 40px ;
+ }
+.time{
+    font-family: "Fira Sans", serif;
+    font-size: 16px;
+    font-weight:500;
+    color: #0E0E0E;
+}    
+
+
+
+.head-news-inside .news-btn{
+    font-family: "Fira Sans", serif;
+    padding: 8px 10px;
+    background-color: #006A50;
+    font-size: 18px; 
+    font-weight: 600;
+    border-radius: 8px;
+}
+.head-news-inside .news-btn:hover{
+    background:#d3259f;  
+}
