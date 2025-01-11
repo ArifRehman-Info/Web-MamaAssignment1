@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-.fira-sans-thin {
+body{.fira-sans-thin {
     font-family: "Fira Sans", serif;
     font-weight: 100;
     font-style: normal;
@@ -399,4 +399,42 @@ padding: 35px 40px ;
 }
 .head-news-inside .news-btn:hover{
     background:#d3259f;  
+}
+/* recent news ses */
+
+/* newsletter ar suru */
+
+.newsletter{
+ margin-left: 70px;
+ margin-right: 80px;
+ border-radius: 24px;
+ height: 200px;
+text-align: center;
+padding-top: 100px;
+  
+ background-color: #C6E4D6;
+}
+.subscribe-title{
+    display: flex;
+    justify-content: center;
+}
+.news-paragraph{
+    display: flex;
+    justify-content: center;
+}
+.news-push{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    background:#FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px #8e7e7e ;
+
+}
+.last .finish{
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
